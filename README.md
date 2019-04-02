@@ -1,1 +1,1 @@
-# aws-study-notes
+## AWS study notes in preparation for the certified solutions architect associates exam.
